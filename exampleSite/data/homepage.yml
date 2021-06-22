@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is BeboCard"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
+  title : "Empowerment is BeboCard"
+  content : "Find your Superpowers Link with Bebo."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
