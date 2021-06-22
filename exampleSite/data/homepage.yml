@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
+  title : "Advancement is BeboCard"
   content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
@@ -32,7 +32,7 @@ vision:
     image : "images/vision/vision-02.jpg"
     content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
     
-  - title : "The Omega Way"
+  - title : "The Bebo Way"
     image : "images/vision/vision-03.jpg"
     content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
 
@@ -46,17 +46,17 @@ product:
   product_item:
   - title : "Ecosystem"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Bebo Ecsystem is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
     
-  - title : "Objects"
+  - title : "Analytics"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Bebo Analytics is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
     
   - title : "Publisher"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Bebo Publisher is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
 
 
@@ -66,12 +66,12 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how BeboCard can propel your business."
 
   
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  title : "Join the Bebo family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
