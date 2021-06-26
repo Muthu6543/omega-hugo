@@ -34,7 +34,7 @@ author = "Themefisher"
 contact_info = "Sydney, <br>NSW 2000"
 description = "This is meta description"
 logo = "/images/bebocard_2.JPG"
-logo_width = "160px"
+logo_width = "200px"
 preloader = true
 [params.cookies]
 enable = true
